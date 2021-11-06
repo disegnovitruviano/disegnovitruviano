@@ -1,6 +1,3 @@
-# paulgiron
-A bit more about me.
-
 # about-me
 
 My name is Paul Giron, I'm the Creative Director of Urbion and Urbanware. I'm also partner at [Gelatina Studio](https://gelatina.xyz/). Besides that I'm a founding member of [Fab Lab Lima](https://www.fab.pe/), Fab Lab ESAN, Fab Lab Caracas, and LAB San Isidro, the first open innovation public space in Peru.
